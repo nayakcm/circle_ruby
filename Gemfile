@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "http://rubygems.org"
-ruby "2.7.2"
+ruby "2.6.6"
 
 gem "activemodel"
 gem "activesupport"
@@ -23,7 +23,7 @@ gem "rspec", "3.6.0"
 gem "rubocop"
 # gem "screen-object"
 gem "appium_lib", ">=10.3"
-#gem "aws-sdk"
+gem "aws-sdk"
 gem "chunky_png"
 gem "rspec_html_reporter"
 gem "selenium-proxy"
