@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source "http://rubygems.org"
-ruby "2.7.2"
+ruby "2.5.1"
 
 gem "activemodel"
 gem "activesupport"
