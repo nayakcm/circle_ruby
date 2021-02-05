@@ -27,4 +27,4 @@ gem "aws-sdk"
 gem "chunky_png"
 gem "rspec_html_reporter"
 gem "selenium-proxy"
-gem "tty-prompt"
+
