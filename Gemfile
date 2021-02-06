@@ -23,8 +23,6 @@ gem "rspec", "3.6.0"
 gem "rubocop"
 # gem "screen-object"
 gem "appium_lib", ">=10.3"
-gem "aws-sdk"
-gem "chunky_png"
 gem "rspec_html_reporter"
 gem "selenium-proxy"
 
